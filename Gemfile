@@ -33,6 +33,7 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'devise', '~> 4.6', '>= 4.6.2'
 gem "paperclip", "~> 6.0.0"
+gem 'masonry-rails', '~> 0.2.4'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
