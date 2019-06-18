@@ -6,7 +6,6 @@
 
 # Ignore bundler config.
 /.bundle
-/public
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
@@ -24,8 +23,10 @@
 /node_modules
 /yarn-error.log
 
+/public
 /public/assets
 .byebug_history
+/notes
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
