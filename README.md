@@ -1,24 +1,16 @@
-# README
+# Demo - Upload pictures
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails app created using Devise; Simple_Form; Bootstrap; Paperclip; Masonry and Act as Votable gems.
 
-Things you may want to cover:
+## Main Features
 
-* Ruby version
+Liking Pictures
 
-* System dependencies
+Users and Restrictions
 
-* Configuration
+Image Uploading
 
-* Database creation
+# 
 
-* Database initialization
+End with an example of getting some data out of the system or using it for a little demo
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
